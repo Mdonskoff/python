@@ -1,3 +1,3 @@
 # Python
 
-Learning git and Pythonn
+Learning git and Python
